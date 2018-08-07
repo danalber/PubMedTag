@@ -3,9 +3,7 @@
 Created on Mon Jul 23 08:48:15 2018
 
 @author: Daniel Alber
-
-dalber@partners.org
-daniel_alber@brown.edu
+twitter: @dalber_
 """
 # json
 import json
