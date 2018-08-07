@@ -1,5 +1,7 @@
 # PubMedTag
 
+# THIS IS AN OLD VERSION - UPDATED COMING SOON
+
 ## This is a python script which facilitates tagging of studies for literature reviews
 
 Required modules: OpenPyXl (for Excel functionality), TKinter, JSON
