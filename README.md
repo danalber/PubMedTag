@@ -1,6 +1,6 @@
 # PubMedTag
 
-# THIS IS AN OLD VERSION - UPDATED COMING SOON
+## Still in development ... 
 
 ## This is a python script which facilitates tagging of studies for literature reviews
 
