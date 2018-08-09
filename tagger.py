@@ -63,6 +63,7 @@ def read_dict(path):
 empty_file = lambda: open('tags.txt', 'w').close()
 
 # clear screen w/ call to 'clear()'
+# NOTE: 'cls' on windows, else 'clear'
 clear = lambda: os.system('cls')
 
 # single study w/ PMID and tags
