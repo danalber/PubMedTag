@@ -1,6 +1,6 @@
 # PubMedTag
 
-## Still in development ... 
+## Still in development ... Functionality untested
 
 ## This is a python script which facilitates tagging of studies for literature reviews
 
